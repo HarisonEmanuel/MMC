@@ -1,5 +1,5 @@
 # Arquitetura de computadores 
-## Aula 05 - 14/09 
+## Aula 05 - 14/09/2023 
 ### Hárison Emanuel
 
 # O que é Arquitetura?
